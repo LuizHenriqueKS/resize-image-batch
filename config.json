@@ -1,0 +1,6 @@
+{
+    "sourceFolder": "test-folder/source",
+    "destFolder": "test-folder/target",
+    "destWidth": 512,
+    "destHeight": 512
+}

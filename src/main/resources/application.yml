@@ -1,0 +1,8 @@
+spring:
+    main:
+        banner-mode: "off"
+
+logging: 
+    file:
+        name: log.txt
+    config: classpath:logback.xml
